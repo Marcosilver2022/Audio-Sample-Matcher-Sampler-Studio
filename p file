@@ -1,0 +1,4 @@
+package.json          (Node.js project configuration)
+vercel.json           (Optional Vercel configuration)
+public/              (Static assets)
+src/                 (Source code)
